@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif" width="900" height="250"/>
+  <img src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif" width="850" height="250"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Sanskar Kakde</h1>
